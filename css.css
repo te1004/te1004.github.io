@@ -490,6 +490,9 @@ section nav {
 .img02 {
   background-image: url("img/02.webp");
 }
+#index .img02 {
+  background-image: url("img/02s.png");
+}
 .img02-02 {
   background-image: url("img/02-02.webp");
 }
@@ -504,6 +507,9 @@ section nav {
 }
 .img04 {
   background-image: url("img/04.webp");
+}
+#index .img04 {
+  background-image: url("img/04s.png");
 }
 .img04-02 {
   background-image: url("img/04-02.webp");
@@ -542,11 +548,17 @@ section nav {
 .img08 {
   background-image: url("img/08.webp");
 }
+#index .img08 {
+  background-image: url("img/08s.png");
+}
 .img08-02 {
   background-image: url("img/08-02.webp");
 }
 .img09 {
   background-image: url("img/09.webp");
+}
+#index .img09 {
+  background-image: url("img/09s.png");
 }
 .img09-02 {
   background-image: url("img/09-02.webp");
@@ -606,6 +618,9 @@ section nav {
 }
 .img15 {
   background-image: url("img/15.webp");
+}
+#index .img15 {
+  background-image: url("img/15s.png");
 }
 .close:hover {
   transform: scale(1) rotate(90deg);
